@@ -1,4 +1,4 @@
-# echarts 鼠标移动生成数据 dome
+# echarts 鼠标移动生成数据 demo
 
 ![avatar](/src/assets/dome.png)
 
